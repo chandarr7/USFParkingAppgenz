@@ -1,0 +1,108 @@
+Final Project: Dynamic Web Application Development and Azure Deployment
+Due May 6 by 11:59pm Points 10 Submitting a file upload File Types pdf, doc, docx, ppt, and pptx
+Assignment Overview
+This final project is the culmination of your course, where you will transform your static website into a dynamic, fully functional web application. The application should feature CRUD operations, robust data management, and API integration. It will be deployed on Azure, showcasing your ability to build, manage, and present a professional-grade application.
+
+The focus of this assignment is on backend functionality, data persistence, and proper implementation of the MVC architecture.
+
+Assignment Objectives
+Implement a fully functional web application using an MVC architecture.
+Manage application data using:
+Persistent Local Storage or Singleton Services, or
+An External Database for data persistence.
+Integrate an API for fetching data.
+Ensure the application is deployed and accessible via Azure.
+Document the development process and reflect on the project in a professional format.
+Assignment Requirements
+1. Functional Web Application
+Transform your static website into a dynamic application using a proper MVC architecture.
+CRUD Operations:
+Fully implement Create, Read, Update, and Delete operations across entities.
+CRUD operations must reflect changes across the entire application (e.g., data updates in tables, visual elements).
+2. Data Management
+Use one of the following methods for persistent data management:
+Persistent Local Storage/Singleton Services: Ensure data remains consistent across sessions using frontend state management or singleton services.
+External Database: Use a cloud-hosted database (e.g., on Azure or any external provider) for managing application data.
+3. API Integration
+Integrate an API relevant to your application domain for fetching data only.
+Display the fetched data appropriately in your application but do not use the API for persistent data storage.
+4. Azure Deployment
+Deploy the fully functional web application to Azure.
+Test the deployment to ensure that the site is fully accessible and all features are functional.
+Manage Azure resources effectively to avoid unnecessary charges (e.g., pause services when not in use).
+5. About Us Page
+Include the following:
+Names, pictures, and roles of all team members.
+A link to the GitHub repository README file explaining technical details such as:
+API endpoints used.
+Data model (updated ERD diagram).
+Overview of CRUD implementation.
+Notable technical challenges and solutions.
+6. Presentation
+Prepare a 6-minute presentation showcasing your project.
+Use the following structure:
+Slide 1: Title Slide – Project name, team name, and objective.
+Slide 2: About Us Slide – Names, pictures, and roles of all team members.
+Slide 3: Technical Intent – Briefly explain the goals, architecture, and technical focus of your project.
+Demo: Show your deployed application on Azure, highlighting CRUD functionality and key features.
+Slide 4: Learnings & Extensions (Optional): Share your most important learnings, challenges faced, and ideas for extending the project.
+Submission Guidelines
+Single Consolidated Document:
+Submit a single document containing the following:
+Deployed Application URL: Link to your Azure-hosted application.
+Updated ERD Diagram: Reflecting the final database design.
+Git Log Output: Evidence of contributions by all team members.
+Self-Reflection of All Team Members:
+Time spent on the project.
+Key learnings.
+Challenges faced and solutions.
+Suggestions for improvement.
+Presentation Slide Deck:
+Include all slides used in your presentation.
+Evaluation Rubric
+Category	Points	Details
+1. API Integration	1	Effective use of an API for fetching and displaying data dynamically.
+2. Data Management	1	Proper use of persistent local storage, singleton services, or an external database.
+3. CRUD Operations	1	Full implementation of Create, Read, Update, and Delete operations across the application.
+4. MVC Architecture	1	Proper implementation of the MVC framework, ensuring clean separation of concerns.
+5. Azure Deployment	1	Successful deployment on Azure with all functionalities operational.
+6. Self-Reflection	1	Thoughtful, concise reflections from all team members, highlighting contributions and learnings.
+7. Presentation	4	Professional, well-structured presentation demonstrating all key features and achievements.
+Total Points: 10
+
+Penalties
+Penalties will be applied in the following cases (subjective evaluation):
+
+Broken links or missing navigation between pages.
+Improper or incomplete implementation of the MVC architecture.
+Missing or partially functional CRUD operations.
+Failure to deploy the application on Azure.
+Non-functional or inactive dynamic elements, such as charts or data updates.
+Additional Notes for Students
+Start Early: Allocate sufficient time for developing, testing, and deploying the project.
+API Selection: Choose an API early that aligns with your application’s domain and ensure its endpoints are well-documented.
+Focus on Architecture: The MVC design must be clean and modular, separating concerns effectively for scalability and maintainability.
+Azure Management: Avoid unnecessary charges by pausing resources when not in use. Resume only for testing and grading.
+Professionalism: Ensure a clean design, responsive interface, and an engaging presentation that highlights the project’s key technical achievements.
+Checklist for Students:
+This ensures no aspect is overlooked:
+
+Technical Features:
+API fetching integrated.
+Persistent data through local storage, singleton services, or external databases.
+Full CRUD implementation.
+MVC architecture implemented effectively.
+Deployment:
+Tested Azure deployment URL.
+Functional across multiple browsers and devices.
+About Us Page:
+Updated ERD diagram included.
+Link to GitHub README with technical details.
+Clear documentation of challenges and solutions.
+Self-Reflection:
+Every team member writes meaningful, unique insights.
+Presentation:
+Adheres to the 6-minute time limit.
+Visually polished with clear speaking roles.
+Git Log:
+Clear, meaningful commit messages showcasing individual contributions.

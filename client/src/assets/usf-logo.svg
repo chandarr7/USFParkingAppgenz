@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <style>
+    .usf-green { fill: #006747; }
+    .usf-gold { fill: #CFC493; }
+    .usf-white { fill: #FFFFFF; }
+  </style>
+  
+  <!-- USF Logo with horns and "USF" text -->
+  <g transform="translate(50, 50)">
+    <!-- Left Horn -->
+    <path class="usf-green" d="M0,80 C20,60 30,20 40,10 C60,0 80,20 90,40 C80,50 70,70 50,100 C30,130 10,110 0,80 Z" />
+    <path class="usf-gold" d="M0,80 C20,60 30,20 40,10 C60,0 80,20 90,40 C80,50 70,70 50,100 C30,130 10,110 0,80 Z" 
+          fill="none" stroke="#CFC493" stroke-width="8" />
+    <path class="usf-white" d="M0,80 C20,60 30,20 40,10 C60,0 80,20 90,40 C80,50 70,70 50,100 C30,130 10,110 0,80 Z" 
+          fill="none" stroke="#FFFFFF" stroke-width="3" />
+          
+    <!-- Right Horn -->
+    <path class="usf-green" d="M120,80 C140,60 150,20 160,10 C180,0 200,20 210,40 C200,50 190,70 170,100 C150,130 130,110 120,80 Z" />
+    <path class="usf-gold" d="M120,80 C140,60 150,20 160,10 C180,0 200,20 210,40 C200,50 190,70 170,100 C150,130 130,110 120,80 Z" 
+          fill="none" stroke="#CFC493" stroke-width="8" />
+    <path class="usf-white" d="M120,80 C140,60 150,20 160,10 C180,0 200,20 210,40 C200,50 190,70 170,100 C150,130 130,110 120,80 Z" 
+          fill="none" stroke="#FFFFFF" stroke-width="3" />
+    
+    <!-- U Letter -->
+    <path class="usf-green" d="M50,120 L50,180 C50,200 70,200 90,200 C110,200 130,200 130,180 L130,120" />
+    <path class="usf-gold" d="M50,120 L50,180 C50,200 70,200 90,200 C110,200 130,200 130,180 L130,120" 
+          fill="none" stroke="#CFC493" stroke-width="8" />
+    <path class="usf-white" d="M50,120 L50,180 C50,200 70,200 90,200 C110,200 130,200 130,180 L130,120" 
+          fill="none" stroke="#FFFFFF" stroke-width="3" />
+          
+    <!-- S Letter -->
+    <path class="usf-green" d="M150,120 L220,120 L220,150 L170,150 L170,170 L220,170 L220,200 L150,200 L150,170 L200,170 L200,150 L150,150 Z" />
+    <path class="usf-gold" d="M150,120 L220,120 L220,150 L170,150 L170,170 L220,170 L220,200 L150,200 L150,170 L200,170 L200,150 L150,150 Z" 
+          fill="none" stroke="#CFC493" stroke-width="8" />
+    <path class="usf-white" d="M150,120 L220,120 L220,150 L170,150 L170,170 L220,170 L220,200 L150,200 L150,170 L200,170 L200,150 L150,150 Z" 
+          fill="none" stroke="#FFFFFF" stroke-width="3" />
+          
+    <!-- F Letter -->
+    <path class="usf-green" d="M240,120 L320,120 L320,150 L270,150 L270,170 L310,170 L310,200 L240,200 L240,120 Z" />
+    <path class="usf-gold" d="M240,120 L320,120 L320,150 L270,150 L270,170 L310,170 L310,200 L240,200 L240,120 Z" 
+          fill="none" stroke="#CFC493" stroke-width="8" />
+    <path class="usf-white" d="M240,120 L320,120 L320,150 L270,150 L270,170 L310,170 L310,200 L240,200 L240,120 Z" 
+          fill="none" stroke="#FFFFFF" stroke-width="3" />
+          
+    <!-- Green dot -->
+    <circle cx="330" cy="195" r="5" class="usf-green" />
+  </g>
+</svg>
